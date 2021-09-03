@@ -1,0 +1,61 @@
+<!-- forms are for collecting information from the user. -->
+
+<h2>Example Inputs</h2>
+
+
+<form>
+    <!-- input element is the most common way of accepting data from the user. There are many different types of input and that can be selected using the type attribute. -->
+    <!-- the "disabled" attribute makes the input immutable or not submittable and the input will be greyed out -->
+    <input type="text" />
+    <input type="checkbox" />
+    <input type="reset" />
+    <input type="radio" disabled/>
+    <input type="submit" disabled/>
+    <input type="button" />
+    <input type="number" />
+    <!-- textarea is similar to input type text, but it allows the text area to expand down so user can write multi-line text whereas the text input doesn't allow this. -->
+    <textarea></textarea>
+    <!-- button is a generic clickable element that is usually used to do something with additional code to program the function of the button. -->
+    <button>Submit this form!</button>
+</form>
+
+<h2>Login Form</h2>
+
+<form>
+    <!-- labels are visual pieces of text that signify what the input is for. This is also crucial for accessibility, make sure to use for and id attributes to link input with label. -->
+    <label for="username">Username</label>
+    <input type="text" id="username" placeholder="Username..." />  
+    <br>
+    <label for="password">Password</label>
+    <input type="password" id="password" placeholder="Password..."/>
+    <br>
+    <input type="submit" value="Login"/>
+</form>
+
+
+<h2>Radio buttons & Checkboxes</h2>
+
+<!-- Food Selection Form-->
+<form>
+<p>Foods Choices</p>
+<input id="food1" type="checkbox" name="food" />
+<label for="food1">Pasta</label>
+<br/>
+<input id="food2" type="checkbox" name="food" />
+<label for="food2">Steak</label>
+<br/>
+<input id="food3" type="checkbox" name="food" />
+<label for="food3">Omelette</label>
+
+<!-- the checked attribute will preselect the option on webpage load -->
+<p>Destination</p>
+<input type="radio" name="location" checked="checked" />
+<label>Italy</label>
+<br/>
+<input type="radio" name="location" />
+<label>France</label>
+<br/>
+<input type="radio" name="location" />
+<label>USA</label>
+
+</form>
