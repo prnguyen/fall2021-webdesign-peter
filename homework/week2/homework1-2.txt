@@ -1,0 +1,29 @@
+Peter Nguyen@DESKTOP-MQCGO3L MINGW64 ~
+$ cd MEDA-Mission-Techies
+
+Peter Nguyen@DESKTOP-MQCGO3L MINGW64 ~/MEDA-Mission-Techies
+$ ls
+fall2021-webdesign-peter/
+
+Peter Nguyen@DESKTOP-MQCGO3L MINGW64 ~/MEDA-Mission-Techies
+$ cd fall2021-webdesign-peter
+
+Peter Nguyen@DESKTOP-MQCGO3L MINGW64 ~/MEDA-Mission-Techies/fall2021-webdesign-peter (master)
+$ ls
+README.md  assignments/  homework/  projects/
+
+Peter Nguyen@DESKTOP-MQCGO3L MINGW64 ~/MEDA-Mission-Techies/fall2021-webdesign-peter (master)
+$ cd homework
+
+Peter Nguyen@DESKTOP-MQCGO3L MINGW64 ~/MEDA-Mission-Techies/fall2021-webdesign-peter/homework (master)
+$ ls
+week2/
+
+Peter Nguyen@DESKTOP-MQCGO3L MINGW64 ~/MEDA-Mission-Techies/fall2021-webdesign-peter/homework (master)
+$ cd week2
+
+Peter Nguyen@DESKTOP-MQCGO3L MINGW64 ~/MEDA-Mission-Techies/fall2021-webdesign-peter/homework/week2 (master)
+$ touch homework1-2.txt
+
+Peter Nguyen@DESKTOP-MQCGO3L MINGW64 ~/MEDA-Mission-Techies/fall2021-webdesign-peter/homework/week2 (master)
+$
