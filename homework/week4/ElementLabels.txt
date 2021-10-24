@@ -1,0 +1,17 @@
+Hobby Page Element to use
+The tilte of the page (h1 element): This is My Hobby
+Heading elements to use for section title (h2 or h3 element). The content is divided into 3 sections with titles as follows:
+1/ Hobby Introduction
+2/ Tips to start learning hobby
+3/ External resources for optional self exploration
+
+All content under each section will be be paragaphs (p element). 
+There are several tips in section 2, so I will make a ordered list of tips of steps since I try to arrange these tips as a process of learning basketball overtime starting from beginner with no experience (ol element)
+
+All the links or hyperlinks will be under external resources that will redirect visitors to the videos or resources being listed.
+
+
+
+
+
+
