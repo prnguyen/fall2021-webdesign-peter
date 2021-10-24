@@ -1,0 +1,14 @@
+Portfolio Webpage Planning
+Content:
+Web page will be divided into 3 sections
+1/ Introduction
+In this section, I will introduce myself and include relevant information such as background, journey to software development, areas of interests in software development, and hobbies in free time.
+Forms of contact: email, links to github and linkedin profiles
+Resume link
+2/ Projects section:
+Project names and brief descriptions with links to the project repositories on Github
+
+Styling:
+Name of page will be at the top with h1 heading
+All subsections will have h2 headings
+All content under each subsection will be paragraphs p element.
